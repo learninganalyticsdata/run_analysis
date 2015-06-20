@@ -5,7 +5,7 @@ Getting &amp; Cleaning Data - Programming Assignment
 The following code is designed to clean and analyze data 
 from the Human Activity Recognition Using Smartphones Dataset.
 
-The data is derived from experiments with a goup of 30 volunteers with ages 19-48. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 70% of participants were chosen to train the data and 30% were chosen to test the data.
+The data is derived from experiments with a goup of 30 volunteers with ages 19-48. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 70% of participants were chosen to train the data and 30% were chosen to test the data. The data were generated from the accelerometer and gyroscope sensors found in the phone.
 
 This code will: 
 1. Merge training and test data sets to create one data set.
