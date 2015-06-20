@@ -74,13 +74,13 @@ Description of variables found in the tidy_data.txt data set. The data for each 
 35. fBodyBodyGyroJerkMag.mean..
   * Grand mean of the frequency domain signals gyro magnitude of the body
 36. angle.tBodyAccMean.gravity.
-  *Grand mean of the angle between to vectors measuring body acceleration and gravity
+  * Grand mean of the angle between to vectors measuring body acceleration and gravity
 37. angle.tBodyAccJerkMean..gravityMean.
-  *Grand mean of the angle between to vectors measuring body jerk acceleration calculation and gravity
+  * Grand mean of the angle between to vectors measuring body jerk acceleration calculation and gravity
 38. angle.tBodyGyroMean.gravityMean.
-  *Grand mean of the angle between to vectors measuring body gyro and gravity
+  * Grand mean of the angle between to vectors measuring body gyro and gravity
 39. angle.tBodyGyroJerkMean.gravityMean.
-  *Grand mean of the angle between to vectors measuring body gyro jerk calculation and gravity
+  * Grand mean of the angle between to vectors measuring body gyro jerk calculation and gravity
 40. angle.X.gravityMean.
   * Grand mean of the angle between to vectors X and gravity
 41. angle.Y.gravityMean.
@@ -128,28 +128,28 @@ Description of variables found in the tidy_data.txt data set. The data for each 
 62. tBodyGyroJerkMag.std..
   * Mean of the standard deviation of the body gyro jerk calculation magnitude
 63. fBodyAcc.std...X
-  *Mean of the standard deviation of the frequency domain signals of the body acceleration in the direction of X
+  * Mean of the standard deviation of the frequency domain signals of the body acceleration in the direction of X
 64. fBodyAcc.std...Y
-  *Mean of the standard deviation of the frequency domain signals of the body acceleration in the direction of Y
+  * Mean of the standard deviation of the frequency domain signals of the body acceleration in the direction of Y
 65. fBodyAcc.std...Z
-  *Mean of the standard deviation of the frequency domain signals of the body acceleration in the direction of Z
+  * Mean of the standard deviation of the frequency domain signals of the body acceleration in the direction of Z
 66. fBodyAccJerk.std...X
-  *Mean of the standard deviation of the frequency domain signals of the body jerk acceleration calculation in the direction of X
+  * Mean of the standard deviation of the frequency domain signals of the body jerk acceleration calculation in the direction of X
 67. fBodyAccJerk.std...Y
-  *Mean of the standard deviation of the frequency domain signals of the body jerk acceleration calculation in the direction of Y
+  * Mean of the standard deviation of the frequency domain signals of the body jerk acceleration calculation in the direction of Y
 68. fBodyAccJerk.std...Z
-  *Mean of the standard deviation of the frequency domain signals of the body jerk acceleration calculation in the direction of Z
+  * Mean of the standard deviation of the frequency domain signals of the body jerk acceleration calculation in the direction of Z
 69. fBodyGyro.std...X
-  *Mean of the standard deviation of the frequency domain signals of the body gyro in the direction of X
+  * Mean of the standard deviation of the frequency domain signals of the body gyro in the direction of X
 70. fBodyGyro.std...Y
-  *Mean of the standard deviation of the frequency domain signals of the body gyro in the direction of Y
+  * Mean of the standard deviation of the frequency domain signals of the body gyro in the direction of Y
 71. fBodyGyro.std...Z
-  *Mean of the standard deviation of the frequency domain signals of the body gyro in the direction of Z
+  * Mean of the standard deviation of the frequency domain signals of the body gyro in the direction of Z
 72. fBodyAccMag.std..
-  *Mean of the standard deviation of the frequency domain signals of the body acceleration magnitude
+  * Mean of the standard deviation of the frequency domain signals of the body acceleration magnitude
 73. fBodyBodyAccJerkMag.std..
-  *Mean of the standard deviation of the frequency domain signals of the body jerk acceleration calculation magnitude
+  * Mean of the standard deviation of the frequency domain signals of the body jerk acceleration calculation magnitude
 74. fBodyBodyGyroMag.std..
-  *Mean of the standard deviation of the frequency domain signals of the body gyro magnitude
+  * Mean of the standard deviation of the frequency domain signals of the body gyro magnitude
 75. fBodyBodyGyroJerkMag.std..
-  *Mean of the standard deviation of the frequency domain signals of the body gyro magnitude
+  * Mean of the standard deviation of the frequency domain signals of the body gyro magnitude
