@@ -1,7 +1,7 @@
 # run_analysis
 Getting &amp; Cleaning Data - Programming Assignment
 
-[Link to data set codebook](run_analysis/Codebook_tidy_data.md)
+[Link to data set codebook](https://github.com/learninganalyticsdata/run_analysis/blob/master/Codebook_tidy_data.md)
 
 ## Summary
 The following code is designed to clean and analyze data 
