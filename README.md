@@ -1,6 +1,8 @@
 # run_analysis
 Getting &amp; Cleaning Data - Programming Assignment
 
+[Link to data set codebook](run_analysis/Codebook_tidy_data.md)
+
 ## Summary
 The following code is designed to clean and analyze data 
 from the Human Activity Recognition Using Smartphones Dataset.
